@@ -1,0 +1,22 @@
+# Ignore environment variables
+.env
+config.json
+secrets.json
+private_key.pem
+
+# Ignore virtual environment
+venv/
+node_modules/
+
+# Ignore database files
+*.sqlite3
+db.sqlite3
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs
+logs/
+*.log
