@@ -7,7 +7,6 @@ This web application allows users to make payments using **PayPal** and **Stripe
 - **PayPal and Stripe Integration**: Supports both payment gateways.
 - **Secure Transactions**: Uses encrypted connections and secure token authentication.
 - **Backend Payment Tracking**: Stores payment history, user transactions, and status.
-- **User Authentication**: Secure login and user session management.
 - **Modern UI**: Built with React for a smooth user experience.
 - **Django Backend**: Handles payment processing and data storage.
 
