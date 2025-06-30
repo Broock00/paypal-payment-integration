@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles', # Required for static files
     'rest_framework',             # For REST API (if using)
     'corsheaders',                # For CORS support
-    'payments',                   # Your custom app
+    'payments',                   # apps
 ]
 
 MIDDLEWARE = [
